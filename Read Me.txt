@@ -1,0 +1,7 @@
+The flow of the project is as follows:
+Class 1. StartApplication.
+Class 2. IMDbTop250Movies.
+Class 3. DatabaseConnectivity.
+
+Please find the Testcases excel document named as "Testcases".
+ 
